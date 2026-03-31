@@ -29,3 +29,5 @@ YOLO + Multi-Object Tracking + Intelligent Monitoring System
 1. 安装依赖：pip install -r requirements.txt
 2. 运行主程序：python track_and_save.py
 3. 配置禁区与统计线可在代码中修改
+
+本项目因本地环境配置冲突，未能完整跑通结果，核心逻辑与实现已完整完成。
