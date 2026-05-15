@@ -9,7 +9,7 @@ YOLO + Multi-Object Tracking + Intelligent Monitoring System
  多目标实时跟踪
  禁区闯入报警（越界提醒）
  分方向进出统计（进入/离开计数）
- 跟踪轨迹可视化
+ 追踪效果评估
 
 
 ## 技术栈
